@@ -1,0 +1,16 @@
+Package: corsicaUtils
+Type: Package
+Title: Utility Functions From Corsica
+Version: 0.8.0
+Author: Gordon Arsenoff, based upon Corsica by Emmanuel Perry
+Maintainer: Gordon Arsenoff <deep.friar@gmail.com>
+Description: Utility functions from the former Corsica universe.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    doMC,
+    foreach,
+    magrittr,
+    stats
+RoxygenNote: 6.1.1
